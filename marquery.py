@@ -14,7 +14,7 @@ from decimal import Decimal
 # URL & API KEY - Change URL if necessary, enter your own API key
 
 url = "https://www.alphavantage.co/query"
-apikey = "E1R9957A64XYWNUS"
+apikey = ""
 
 # Functions 
 
